@@ -1,0 +1,14 @@
+layout_spectrum: 0.025048401905223727
+typography_spectrum: 0.7277708281762898
+color:
+  brandStrength: 0.6629225497599691
+  lightness: 0.6133915302343667
+  saturation: 0.5691247407812625
+  rhythmicContrast: 0.44408625760115683
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Ryan's CGI
