@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T19:56:31.567Z'
+datePublished: '2016-08-05T20:12:37.794Z'
 sourcePath: _posts/2016-08-05-june-2016-cryo-chamber-the-gnomon-workshop-forums.md
 isBasedOnUrl: 'http://forums.thegnomonworkshop.com/showthread.php?t=8068'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T17:55:46.736Z'
+dateModified: '2016-08-05T20:12:37.099Z'
 title: 2nd place in the June Gnomon Workshop 3D Image Challenge (Cryo Chamber)!
 app_links: []
 publisher:
@@ -34,4 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="http://forums.thegnomonworkshop.com/attachment.php?attachmentid=9899&amp;stc=1&amp;d=1469760524" /><h1>2nd place in the June Gnomon Workshop 3D Image Challenge (Cryo Chamber)!</h1><p>June, 2016: Cryo Chamber 3D images</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3225c16bf974666b60770cfdfa3d52c5/noop.php?input=http%3A%2F%2Fforums.thegnomonworkshop.com%2Fattachment.php%3Fattachmentid%3D9899%26stc%3D1%26d%3D1469760524" /><h1>2nd place in the June Gnomon Workshop 3D Image Challenge (Cryo Chamber)!</h1><p>June, 2016: Cryo Chamber 3D images</p></article>
