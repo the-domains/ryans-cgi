@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T17:35:44.756Z'
+datePublished: '2016-08-05T17:47:38.707Z'
 sourcePath: _posts/2016-08-05-3d-modeling-animation-and-photoshop-demo-reel-2015.md
 isBasedOnUrl: 'https://youtu.be/aUGS4HdTstQ'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCVN9ZbXPEvyuhSsr2ySE1cw'
     avatar: {}
 via: {}
-dateModified: '2016-08-05T17:35:44.177Z'
+dateModified: '2016-08-05T17:47:37.644Z'
 title: '3D Modeling, Animation, and Photoshop Demo Reel 2015'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aUGS4HdTstQ&feature=applinks'
